@@ -1,19 +1,19 @@
-$color: #00cc99;
+$color: skyblue;
 
 .header {
   height: 200px;
-  background-color: #00cc99;
+  background-color: skyblue;
 }
 
 .footer {
   height: 200px;
-  background-color: #00cc99;
+  background-color: skyblue;
 }
 
 .box {
   width: 100px;
   height: 100px;
-  background-color: red;
+  background-color: blue;
   display: flex;
   transition: all 0.5s;
   &:hover {
